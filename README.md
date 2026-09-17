@@ -442,6 +442,7 @@ diagram-design/
 │       │   ├── type-kanban.md
 │       │   ├── type-journey.md
 │       │   ├── type-deployment.md
+│       │   ├── type-network.md
 │       │   ├── type-dependency.md
 │       │   ├── type-uml-class.md
 │       │   ├── type-story-map.md

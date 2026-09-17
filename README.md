@@ -92,7 +92,10 @@ All 39 visual types ship in three static variants: minimal light, minimal dark, 
 </tr>
 <tr>
   <td align="center"><a href="docs/screenshots/deployment.png"><img src="docs/screenshots/thumbs/deployment.webp" alt="Deployment"></a><br><b>Deployment</b><br><sub>Zones, hosts + artifacts</sub></td>
+  <td align="center"><a href="docs/screenshots/network.png"><img src="docs/screenshots/thumbs/network.webp" alt="Network"></a><br><b>Network</b><br><sub>Routers, switches, subnets/VLANs</sub></td>
   <td align="center"><a href="docs/screenshots/dependency.png"><img src="docs/screenshots/thumbs/dependency.webp" alt="Dependency graph"></a><br><b>Dependency graph</b><br><sub>Fan-in, ranks + cycles</sub></td>
+</tr>
+<tr>
   <td align="center"><a href="docs/screenshots/uml-class.png"><img src="docs/screenshots/thumbs/uml-class.webp" alt="UML class"></a><br><b>UML class</b><br><sub>Classes, operations + typed relations</sub></td>
 </tr>
 <tr>
@@ -442,6 +445,7 @@ diagram-design/
 │       │   ├── type-kanban.md
 │       │   ├── type-journey.md
 │       │   ├── type-deployment.md
+│       │   ├── type-network.md
 │       │   ├── type-dependency.md
 │       │   ├── type-uml-class.md
 │       │   ├── type-story-map.md

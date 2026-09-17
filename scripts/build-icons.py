@@ -81,6 +81,9 @@ ICONS: dict[str, list[tuple[str, str, str, str]]] = {
         ("load-balancer", "tabler", "arrows-split",           "Load balancer / traffic split."),
         ("gateway",       "tabler", "door-enter",             "API gateway or ingress door."),
         ("dns",           "tabler", "tag",                    "DNS / name resolution."),
+        ("router",        "tabler", "router",                 "Router — routes traffic between subnets/networks."),
+        ("switch",        "tabler", "topology-star-3",        "Network switch — L2 fan-out to a segment."),
+        ("access-point",  "tabler", "access-point",           "Wireless access point."),
     ],
     "Data": [
         ("database", "tabler", "database",         "Relational or document database."),

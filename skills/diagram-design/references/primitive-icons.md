@@ -176,6 +176,33 @@ DNS / name resolution.
 
 Source: Tabler Icons / `tag` (MIT)
 
+### router
+Router — routes traffic between subnets/networks.
+
+```svg
+<svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 15a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -4" /> <path d="M17 17l0 .01" /> <path d="M13 17l0 .01" /> <path d="M15 13l0 -2" /> <path d="M11.75 8.75a4 4 0 0 1 6.5 0" /> <path d="M8.5 6.5a8 8 0 0 1 13 0" /></svg>
+```
+
+Source: Tabler Icons / `router` (MIT)
+
+### switch
+Network switch — L2 fan-out to a segment.
+
+```svg
+<svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M10 19a2 2 0 1 0 -4 0a2 2 0 0 0 4 0" /> <path d="M18 5a2 2 0 1 0 -4 0a2 2 0 0 0 4 0" /> <path d="M10 5a2 2 0 1 0 -4 0a2 2 0 0 0 4 0" /> <path d="M6 12a2 2 0 1 0 -4 0a2 2 0 0 0 4 0" /> <path d="M18 19a2 2 0 1 0 -4 0a2 2 0 0 0 4 0" /> <path d="M14 12a2 2 0 1 0 -4 0a2 2 0 0 0 4 0" /> <path d="M22 12a2 2 0 1 0 -4 0a2 2 0 0 0 4 0" /> <path d="M6 12h4" /> <path d="M14 12h4" /> <path d="M15 7l-2 3" /> <path d="M9 7l2 3" /> <path d="M11 14l-2 3" /> <path d="M13 14l2 3" /></svg>
+```
+
+Source: Tabler Icons / `topology-star-3` (MIT)
+
+### access-point
+Wireless access point.
+
+```svg
+<svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 12l0 .01" /> <path d="M14.828 9.172a4 4 0 0 1 0 5.656" /> <path d="M17.657 6.343a8 8 0 0 1 0 11.314" /> <path d="M9.168 14.828a4 4 0 0 1 0 -5.656" /> <path d="M6.337 17.657a8 8 0 0 1 0 -11.314" /></svg>
+```
+
+Source: Tabler Icons / `access-point` (MIT)
+
 ## Data
 
 ### database

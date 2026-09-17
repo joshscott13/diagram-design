@@ -6,7 +6,7 @@ The diagram-design skill itself is MIT-licensed (see [`LICENSE`](LICENSE)). It b
 
 - **License:** MIT
 - **Upstream:** https://github.com/tabler/tabler-icons
-- **Used in:** stroked icons in `skills/diagram-design/references/primitive-icons.md` and `skills/diagram-design/assets/icons.html` (categories: Compute, People, Network, Data, Kubernetes, Action, DevOps, plus the stroked Brand outlines for Docker, Terraform, AWS, Azure, GitHub).
+- **Used in:** stroked icons in `skills/diagram-design/references/primitive-icons.md` and `skills/diagram-design/assets/icons.html` (categories: Compute, People, Network — including router, switch, and access-point for network topology diagrams — Data, Kubernetes, Action, DevOps, plus the stroked Brand outlines for Docker, Terraform, AWS, Azure, GitHub).
 
 The MIT license is reproduced in full at https://github.com/tabler/tabler-icons/blob/main/LICENSE.
 
